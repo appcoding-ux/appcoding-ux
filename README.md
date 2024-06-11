@@ -5,8 +5,8 @@
 
 <p align="center">
     <Strong>☁️SNS list☁️</Strong><br><br>
-    <a href="https://www.instagram.com//" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white"/></a>
-    <a href="https://velog.io/@noyohanx" target="_blank"><img src = "https://img.shields.io/badge/Velog-20C997?logo=velog&logoColor=white"></a>
+    <a href="https://www.instagram.com/lysreadme" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white"/></a>
+    <a href="https://blog.naver.com/backend_frontend" target="_blank"><img src = "https://img.shields.io/badge/Velog-20C997?logo=velog&logoColor=white"></a>
     <br>
 <br><br>
 <Strong>📧Email📧</Strong><br>iy398884@gmail.com<br>
